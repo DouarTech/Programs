@@ -95,11 +95,11 @@
 
 <--!-->
 
-![](./assets/Example Ecolodge.png)
+![](./assets/Example_Ecolodge.png)
 
 <--!-->
 
-![](./assets/Example Visit.org.png)
+![](./assets/Example_Visit.org.png)
 
 <--!-->
 
