@@ -1,97 +1,177 @@
-# English - Construire les fondations de votre entreprise
+# Build the foundations of your business
 
 ![](http://douar.tech/dt_assets/session-2/slide-1.png)
 
 <--!-->
 
-## Définition d'une entreprise
+## Definition of a company
 
-- Une entreprise est une unité économique,juridiquement autonome,organisée pour produire des biens ou des services pour le marché.
-- Liens de vidéos pour mieux comprendre !
-  En français : [https://www.youtube.com/watch?v=ndtHS0rWoqU](https://www.youtube.com/watch?v=ndtHS0rWoqU)
-  En arabe : [https://www.youtube.com/watch?v=p3tyKTAoJtM](https://www.youtube.com/watch?v=p3tyKTAoJtM)
+- A business is an economic unit, legally autonomous, organized to produce goods or services for the market.
+- Businesses range in scale from a sole proprietorship to an international corporation. 
+- Businesses can be for-profit entities or non-profit organizations that operate to fulfill a charitable mission or further a social cause.
+- Video to better understand! 
+[https://www.youtube.com/watch?v=p3tyKTAoJtM](https://www.youtube.com/watch?v=p3tyKTAoJtM)
 
 <--!-->
 
 ## Startup et lean Startup
 
-- Une **Start up** est une jeune entreprise innovante à fort potentiel de développement,nécessitant un investissement important pour pouvoir financer sa croissance rapide.
-- Le Lean Startup est une manière d'entreprendre, basée sur des itérations : lancer une offre minimum, tester le marché, ajuster son produit, et recommancer jusqu'à trouver la meilleure idée à vendre.
-  Vidéo : [https://www.youtube.com/watch?v=bOvo4TA4f5A](https://www.youtube.com/watch?v=bOvo4TA4f5A)
+- A start-up is a young, innovative company with high development potential, requiring a large investment to finance its rapid growth.
+- Lean Startup is an entrepreneurial way, based on iterations : 
+
+1/ launch a minimum bid;
+
+2/ test the market; 
+
+3/ adjust your product;
+
+4/ start again until you find the product-market fit.
+- Video to better understand : [https://www.youtube.com/watch?v=bOvo4TA4f5A](https://www.youtube.com/watch?v=bOvo4TA4f5A)
 
 <--!-->
 
-## Une activité à faire
+## Let’s have a look at existing companies around you
 
-- Définir les entreprises qui son autour de vous !
-
-  - [ ] Nom de l'entreprise
-  - [ ] Activité
-  - [ ] Statut juridique
-  - [ ] Qui fait quoi dans l'entreprise ?
+  - [ ] Company name - how are they known? 
+  - [ ] Activity - what do they do? 
+  - [ ] Legal status - how were they established? 
+  - [ ] Organization- Who does what in the company? 
 
 <--!-->
 
-## Business Model Canevas
+## The Business Model Canvas
 
-- Histoire de Beth et Carl :
-  Vidéo : [https://www.youtube.com/watch?v=wwShFsSFb-Y](https://www.youtube.com/watch?v=wwShFsSFb-Y)
+- A bit of history :
+  
+  Developed by Alexander Osterwalder - a Swiss business theorist, author, speaker, consultant and entrepreneur, known for his work on economic modeling.
 
-  - Le Business Model Canevas a été développé par Alexander Osterwalder. Il est théoricien suisse des affaires, auteur, conférencier, consultant et entrepreneur, connu pour ses travaux sur la modélisation économique et le développement du Business Model Canevas.
-  - Un modèle économique (ou Business Model en anglais) décrit précisément comment votre entreprise va gagner de l’argent.
-  - En pratique, cela revient à définir ce que vous allez vendre auprès de quels clients, dans quel but, de quelle manière et pour quel bénéfice.
-  - La description de votre modèle économique est une pièce maitresse de votre projet de création d’entreprise.
-  - Explication des blocs de Business Model Canevas : [https://www.youtube.com/watch?v=wlKP-BaC0jA](https://www.youtube.com/watch?v=wlKP-BaC0jA)
+- Purpose :
+
+    A Business Model describes exactly how your business will earn money - defining what you are going to sell to which customers, for what purpose, in what way and for what benefit.
+
+- To go further
+
+  A global overview https://www.youtube.com/watch?v=wwShFsSFb-Y
+    
+    Business Model Canvas Blocks https://www.youtube.com/watch?v=wlKP-BaC0jA
 
 <--!-->
 
 ## Business Model / Business Plan
 
 - **Business Model:**
-  La logique permettant la création de valeur ajoutée pour les clients et la génération des revenus.
+  The logic for creating added value for customers and revenue generation.
+
 - **Business Plan:**
-  La mise œuvre opérationnelle et financière de cette logique.
+  The operational and financial implementation of this logic.
 
 <--!-->
 
-## Une image vaut mille mots. Le BMC, c’est visuel! :
+## Why use the Business Model Canvas?
 
-Le BMC va vous permettre de cerner votre projet en un coup d’œil.
+- The BMC is visual - it allows you to identify your project at a glance. Its structure, consisting of 9 blocks, provides an overview that is lacking when writing a business plan.
 
-Sa structure, composée de 9 blocs, apporte une vision d’ensemble qui fait défaut quand on rédige un plan d’affaires.
-
-<--!-->
-
-## Il vous permet d’avancer :
-
-Le BMC donne un bon aperçu du travail à accomplir à l’instant même. L’idée est d’avancer avec les ressources (humaines, financières et temps disponible) que vous avez à ce moment. Par itération, vous faites évoluer votre projet en fonction du modèle d’affaires désiré.
+- It allows you to move forward with a good overview of the work to be done right now with the available resources (human, financial and time available) and then by iteration towards the most effective business model.
 
 <--!-->
 
-## Il offre une vision globale sur tout ce qui compose une entreprise :
+## The Business Model Canvas: instructions for use
 
-Segments de clientèle, proposition de valeur (offre), canaux et relations clients (marketing), flux de revenus, ressources clés, activités clés, partenaires clés et structure des coûts. Chaque bloc comprendra un aspect du fonctionnement l’entreprise. Avec sa vision globale, il aide à faire des liens et lier plusieurs éléments en même temps et prendre conscience des lacunes.
+- 9 blocks to describe, invent, test and draw a business model.
 
-<--!-->
+- Blocks are included in the 4 big dimensions of a company: 
 
-## On peut le faire, n’importe où, n’importe quand :
+    Customers;
 
-À l’aide de post-it, sur une nappe en papier, une feuille blanche, un tableau…
+    Offer;   
 
-<--!-->
+    Infrastructure;
 
-## Il est fait pour la pensée latérale :
-
-Vous pouvez écrire, énoncer plein d’idées, explorer rapidement plusieurs modèles différents, puis revenir en arrière, raturer, jeter à la poubelle, ressortir, recommencer dans un autre ordre.
-
-Il permet davantage de créativité et une plus grande liberté de pensée.
+    Financial Viability.
 
 <--!-->
 
-## Il va vous permettre de définir votre modèle d’affaires idéal :
+![](./assets/BM.png)
 
-En remplissant plusieurs BMC pour un même projet, vous allez pouvoir explorer différents modèles d’affaires et choisir celui qui conviendra le mieux à votre projet/entreprise.
+<--!-->
 
-Vous pouvez en faire un tout seul, puis un avec vos associés, un avec votre entourage… Bref faites l’exercice autant de fois que vous continuerez à sortir des idées innovantes.
+![](./assets/Example Ecolodge.png)
 
-C’est une activité facile (voire ludique!) à faire seul ou en groupe, n’hésitez pas à en abuser!
+<--!-->
+
+![](./assets/Example Visit.org.png)
+
+<--!-->
+
+## 1- Customer segment
+
+- The different groups of people or organizations that your company wants to reach.
+
+- This block can possibly be subdivided between the "customer" who pays for the product or service and the "recipient" who receives the goods or services, but does not necesarily pay the benefit.
+
+<--!-->
+
+## 2- Value proposition
+
+- What pain/need do you answer? What part of your offer creates value for your customers?
+
+- All the products and services that the company will provide that will enable the clients or beneficiaries achieve their own objectives.
+
+<--!-->
+
+## 3- Distribution channels
+
+- How do you reach your customers? How do you communicate with them to create value? 
+
+<--!-->
+
+## 4- Customer relationship
+
+- What is the type of relationship maintained with each customer segment, the way we meet their expectations? 
+
+<--!-->
+
+## 5- Sources of income
+
+- How do you generate turnover?
+
+<--!-->
+
+## 6- Key resources
+
+- What are the most important resources for processes to work properly, whether they be raw materials, human resources, financial resources or your sources of information? 
+
+<--!-->
+
+## 7- Key activities
+
+- What are you doing ? What are the processes, procedures and actions that the company absolutely needs to execute in order for its business model to work.
+
+<--!-->
+
+## 8- Key partners
+
+- How should you structure the network of suppliers and partners vital for the good conduct of the business model?
+
+<--!-->
+
+## 9- Cost structure
+
+- What is expensive? What do you pay mainly? What is the cost allocation?
+
+- All costs generated by the implementation of the described model.
+
+<--!-->
+
+## Your turn!
+
+- Brainstorm
+- Fill in your business model canvas
+- Discuss the result
+- Iterate!
+
+<--!-->
+
+![](./assets/Your_BM.png)
+
+ 
