@@ -1,97 +1,190 @@
-# Arabic - Construire les fondations de votre entreprise
+# ابني أسس مقاولتك
+
 
 ![](http://douar.tech/dt_assets/session-2/slide-1.png)
 
 <--!-->
 
-## Définition d'une entreprise
+## تعريف المقاولة
 
-- Une entreprise est une unité économique,juridiquement autonome,organisée pour produire des biens ou des services pour le marché.
-- Liens de vidéos pour mieux comprendre !
-  En français : [https://www.youtube.com/watch?v=ndtHS0rWoqU](https://www.youtube.com/watch?v=ndtHS0rWoqU)
-  En arabe : [https://www.youtube.com/watch?v=p3tyKTAoJtM](https://www.youtube.com/watch?v=p3tyKTAoJtM)
+الشركة هي وحدة اقتصادية، مستقلة قانونيا ، منظمة لإنتاج سلع أو خدمات للسوق
 
-<--!-->
+تتراوح الشركات في الحجم من ملكية فردية إلى شركة دولية
 
-## Startup et lean Startup
+يمكن أن تكون الشركات كيانات هادفة للربح أو منظمات غير ربحية تعمل لتحقيق مهمة خيرية أو لتعزيز قضية اجتماعية
 
-- Une **Start up** est une jeune entreprise innovante à fort potentiel de développement,nécessitant un investissement important pour pouvoir financer sa croissance rapide.
-- Le Lean Startup est une manière d'entreprendre, basée sur des itérations : lancer une offre minimum, tester le marché, ajuster son produit, et recommancer jusqu'à trouver la meilleure idée à vendre.
-  Vidéo : [https://www.youtube.com/watch?v=bOvo4TA4f5A](https://www.youtube.com/watch?v=bOvo4TA4f5A)
+فيديو لفهم أفضل
+https://www.youtube.com/watch?v=p3tyKTAoJtM
 
 <--!-->
 
-## Une activité à faire
+## الشركة الناشئة و بدء التشغيل العجاف
 
-- Définir les entreprises qui son autour de vous !
+الشركة الناشئة هي شركة شابة ومبتكرة تتمتع بإمكانات تطوير عالية ، وتتطلب استثمارات كبيرة لتمويل نموها السريع
 
-  - [ ] Nom de l'entreprise
-  - [ ] Activité
-  - [ ] Statut juridique
-  - [ ] Qui fait quoi dans l'entreprise ?
+التشغيل العجاف هي طريقة ريادية تعتمد على التكرار: 
 
-<--!-->
+1/ إطلاق الحد الأدنى من العرض
 
-## Business Model Canevas
+2/ اختبار السوق
 
-- Histoire de Beth et Carl :
-  Vidéo : [https://www.youtube.com/watch?v=wwShFsSFb-Y](https://www.youtube.com/watch?v=wwShFsSFb-Y)
+3/ ضبط المنتج
 
-  - Le Business Model Canevas a été développé par Alexander Osterwalder. Il est théoricien suisse des affaires, auteur, conférencier, consultant et entrepreneur, connu pour ses travaux sur la modélisation économique et le développement du Business Model Canevas.
-  - Un modèle économique (ou Business Model en anglais) décrit précisément comment votre entreprise va gagner de l’argent.
-  - En pratique, cela revient à définir ce que vous allez vendre auprès de quels clients, dans quel but, de quelle manière et pour quel bénéfice.
-  - La description de votre modèle économique est une pièce maitresse de votre projet de création d’entreprise.
-  - Explication des blocs de Business Model Canevas : [https://www.youtube.com/watch?v=wlKP-BaC0jA](https://www.youtube.com/watch?v=wlKP-BaC0jA)
+4/ البدء من جديد حتى تجد المنتج المناسب للسوق
+
+فيديو لفهم أفضل
+https://www.youtube.com/watch?v=bOvo4TA4f5A
 
 <--!-->
 
-## Business Model / Business Plan
+## دعونا نلقي نظرة على الشركات الموجودة من حولك
 
-- **Business Model:**
-  La logique permettant la création de valeur ajoutée pour les clients et la génération des revenus.
-- **Business Plan:**
-  La mise œuvre opérationnelle et financière de cette logique.
-
-<--!-->
-
-## Une image vaut mille mots. Le BMC, c’est visuel! :
-
-Le BMC va vous permettre de cerner votre projet en un coup d’œil.
-
-Sa structure, composée de 9 blocs, apporte une vision d’ensemble qui fait défaut quand on rédige un plan d’affaires.
+  - [ ] اسم الشركة -  بأي اسم هي معروفة ؟
+  - [ ] النشاط - ماذا يفعلون؟
+  - [ ] الوضع القانوني - كيف تم تأسيسها؟
+  - [ ] تنظيم - من يفعل ماذا في الشركة؟
 
 <--!-->
 
-## Il vous permet d’avancer :
+## نموذج عمل
 
-Le BMC donne un bon aperçu du travail à accomplir à l’instant même. L’idée est d’avancer avec les ressources (humaines, financières et temps disponible) que vous avez à ce moment. Par itération, vous faites évoluer votre projet en fonction du modèle d’affaires désiré.
+ القليل من التاريخ
 
-<--!-->
+تم تطوير نموذج العمل بواسطة ألكساندر أوستروالدر. وهو عالم أعمال سويسري ، مؤلف ، متحدث ، استشاري ورجل أعمال ، معروف بعمله في النمذجة الاقتصادية وتطوير نموذج العمل
 
-## Il offre une vision globale sur tout ce qui compose une entreprise :
+الهدف
 
-Segments de clientèle, proposition de valeur (offre), canaux et relations clients (marketing), flux de revenus, ressources clés, activités clés, partenaires clés et structure des coûts. Chaque bloc comprendra un aspect du fonctionnement l’entreprise. Avec sa vision globale, il aide à faire des liens et lier plusieurs éléments en même temps et prendre conscience des lacunes.
+يصف النموذج الاقتصادي (أو نموذج العمل) كيف ستربح مقاولتك بالضبط المال.
+في الممارسة العملية ، فإنه يحدد ما ستبيعه للعملاء ، ولأي غرض ، وبأي طريقة و ما الفائدة
 
-<--!-->
+للمضي قدما
 
-## On peut le faire, n’importe où, n’importe quand :
+نظرة عامة 
+https://www.youtube.com/watch?v=wwShFsSFb-Y
 
-À l’aide de post-it, sur une nappe en papier, une feuille blanche, un tableau…
-
-<--!-->
-
-## Il est fait pour la pensée latérale :
-
-Vous pouvez écrire, énoncer plein d’idées, explorer rapidement plusieurs modèles différents, puis revenir en arrière, raturer, jeter à la poubelle, ressortir, recommencer dans un autre ordre.
-
-Il permet davantage de créativité et une plus grande liberté de pensée.
+خانات نموذج العمل
+https://www.youtube.com/watch?v=wlKP-BaC0jA
 
 <--!-->
 
-## Il va vous permettre de définir votre modèle d’affaires idéal :
+## نموذج العمل / خطة العمل
 
-En remplissant plusieurs BMC pour un même projet, vous allez pouvoir explorer différents modèles d’affaires et choisir celui qui conviendra le mieux à votre projet/entreprise.
+- **نموذج العمل**
+منطق يمكن من خلق قيمة مضافة للعملاء وتوليد الإيرادات
+- **خطة العمل**
+التنفيذ التشغيلي والمالي لهذا المنطق
 
-Vous pouvez en faire un tout seul, puis un avec vos associés, un avec votre entourage… Bref faites l’exercice autant de fois que vous continuerez à sortir des idées innovantes.
+<--!-->
 
-C’est une activité facile (voire ludique!) à faire seul ou en groupe, n’hésitez pas à en abuser!
+## لماذا يستخدم نموذج العمل ؟
+
+سوف يسمح لك نموذج العمل بتحديد مشروعك في لمحة. هيكله ، الذي يتكون من 9 خانات ، يوفر نظرة عامة تفتقر إليها عند كتابة خطة العمل
+
+يعطي نموذج العمل نظرة عامة جيدة على العمل الذي يجب القيام به الآن. الفكرة هي المضي قدمًا في الموارد (البشرية والمالية والوقت المتاح) التي لديك في هذا الوقت. من خلال التكرار ، يمكنك تطوير مشروعك وفقًا لنموذج العمل الذي ترغب فيه
+
+<--!-->
+
+## نموذج عمل : تعليمات للاستخدام
+
+9 خانات لوصف وابتكار واختبار ورسم نموذج عمل
+
+يغطي الأبعاد الأربعة الكبيرة للمقاولة: 
+
+1/ العملاء
+
+2/ العرض 
+
+3/ البنية التحتية
+
+4/ القدرة المالية
+
+<--!-->
+
+![](./assets/BM_ar.png)
+
+<--!-->
+
+![](./assets/Ecolodge_ar.png)
+
+<--!-->
+
+![](./assets/Visit.org_ar.png)
+
+<--!-->
+
+## 1- شريحة العملاء
+
+المجموعات المختلفة من الأشخاص أو المنظمات التي ترغب شركتك في الوصول إليها.
+
+يمكن تقسيم هذه الخانة بين "العميل" الذي يدفع ثمن المنتج أو الخدمة و "المستلم" الذي يتلقى السلع أو الخدمات ، لكنه لا يؤدي ثمن الخدمة
+
+<--!-->
+
+## 2 - اقتراح القيمة
+
+ما الحاجة التي تلبيها؟ أي جزء من عرضك يخلق قيمة لعملائك؟
+
+جميع المنتجات والخدمات التي ستوفرها المقاولة و التي ستمكن العملاء أو المستفيدين من تلبية احتياجاتهم وبالتالي تحقيق أهدافهم الخاصة
+
+<--!-->
+
+## 3- قنوات التوزيع
+
+كيف تصل إلى عملائك؟ كيف تتواصل معهم لخلق قيمة؟
+
+<--!-->
+
+## 4- علاقة العملاء
+
+نوع العلاقة التي يجب الحفاظ عليها مع كل شريحة من العملاء ، والطريقة التي نلبي بها توقعاتهم
+
+<--!-->
+
+## مصادر الدخل -5
+
+كيف يمكنك توليد رقم معاملات؟
+
+<--!-->
+
+## 6 - الموارد الرئيسية
+
+ما هي العناصر المطلوبة لحسن سير العمل في خدمتك؟
+أهم الموارد للعمل بشكل صحيح ، سواء كانت مواد أولية أو موارد بشرية أو موارد مالية أو مصادر معلومات
+
+<--!-->
+
+## 7 - الأنشطة الرئيسية
+
+ماذا تفعلون ؟
+العمليات والإجراء ات التي تحتاجها تماما المقاولة لتنفيذها حتى يعمل نموذج عملها
+
+<--!-->
+
+## 8. الشركاء الرئيسيون
+
+ماذا يجب أن تكون شبكة الشركاء والموردين لديك؟
+شبكة الموردين والشركاء الحيويين لسير جيد لنموذج العمل
+
+<--!-->
+
+## 9- هيكل التكلفة
+
+ما هي الأشياء المكلفة؟ ماذا تدفع أساسا؟ ما هي التكاليف الرئيسية ونوع التكاليف؟
+
+جميع التكاليف الناتجة عن تنفيذ النموذج الموصوف
+
+<--!-->
+
+##  !دورك
+
+ابدأ العصف الذهني
+
+املأ نموذج عملك
+
+ناقش النتيجة
+
+كرر
+
+<--!-->
+
+![](./assets/Votre_BM_ar.png)
